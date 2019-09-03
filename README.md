@@ -1,41 +1,41 @@
 # My IndustrialDesign Portfolio
 
-![1](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/1.PNG)  
-![2](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/2.PNG)  
-![3](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/3.PNG)  
-![4](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/4.PNG) 
-![5](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/5.PNG)
-![6](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/6.PNG)
-![7](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/7.PNG)
-![8](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/8.PNG)
-![9](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/9.PNG)
-![10](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/10.PNG)
-![11](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/11.PNG)
-![12](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/12.PNG)
-![13](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/13.PNG)
-![14](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/14.PNG)
-![15](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/15.PNG)
-![16](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/16.PNG)
-![17](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/17.PNG)
-![18](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/18.PNG)
-![19](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/19.PNG)
-![20](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/20.PNG)
-![21](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/21.PNG)
-![22](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/22.PNG)
-![23](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/23.PNG)
-![24](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/24.PNG)
-![25](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/25.PNG)
-![26](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/26.PNG)
-![27](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/27.PNG)
-![28](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/28.PNG)
-![29](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/29.PNG)
-![30](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/30.PNG)
-![31](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/31.PNG)
-![32](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/32.PNG)
-![33](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/33.PNG)
-![34](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/34.PNG)
-![35](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/35.PNG)
-![36](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/36.PNG)
-![37](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/37.PNG)
-![38](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/38.PNG)
-![39](https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/39.PNG)
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/1.PNG" alt="P1">  
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/2.PNG" alt="P2">  
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/3.PNG" alt="P3">  
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/4.PNG" alt="P4"> 
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/5.PNG" alt="P5">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/6.PNG" alt="P6">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/7.PNG" alt="P7">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/8.PNG" alt="P8">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/9.PNG" alt="P9">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/10.PNG" alt="P10">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/11.PNG" alt="P11">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/12.PNG" alt="P12">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/13.PNG" alt="P13">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/14.PNG" alt="P14">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/15.PNG" alt="P15">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/16.PNG" alt="P16">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/17.PNG" alt="P17">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/18.PNG" alt="P18">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/19.PNG" alt="P19">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/20.PNG" alt="P20">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/21.PNG" alt="P21">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/22.PNG" alt="P22">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/23.PNG" alt="P23">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/24.PNG" alt="P24">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/25.PNG" alt="P25">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/26.PNG" alt="P26">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/27.PNG" alt="P27">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/28.PNG" alt="P28">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/29.PNG" alt="P29">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/30.PNG" alt="P30">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/31.PNG" alt="P31">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/32.PNG" alt="P32">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/33.PNG" alt="P33">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/34.PNG" alt="P34">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/35.PNG" alt="P35">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/36.PNG" alt="P36">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/37.PNG" alt="P37">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/38.PNG" alt="P38">
+<img src="https://github.com/aoyeshirenbianchou/IndustrialDesign/blob/master/Images/39.PNG" alt="P39">
